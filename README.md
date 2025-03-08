@@ -1,14 +1,22 @@
 # ENCOM S.A - Figura Geométrica Círculo (Java)
 
-## Descripción del Proyecto
+## Estado Actual
 
-Este proyecto, desarrollado por ENCOM S.A, es una librería en Java diseñada para calcular propiedades geométricas de un círculo, como el área y el perímetro. El objetivo es proporcionar una herramienta eficiente y precisa para estos cálculos, con la posibilidad de extender su funcionalidad en el futuro.
+En esta rama, se está trabajando y mejorando el método para calcular el área de un círculo. Además, se están desarrollando pruebas unitarias para garantizar que el cálculo del área sea preciso y confiable.
 
-### Requisitos:
-- Java JDK 11 o superior.
-- Maven para la gestión de dependencias.
+### Funcionalidades en desarrollo:
+- Método `areaCirculo()` para el cálculo del área de un círculo.
+- Pruebas unitarias utilizando **JUnit** para validar el correcto funcionamiento del método.
 
-### Instalación:
+---
+
+## Requisitos:
+- **Java JDK 11 o superior**.
+- **Maven** para la gestión de dependencias.
+
+---
+
+## Instalación:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/encom-sa-figura-geometrica-circulo.git
