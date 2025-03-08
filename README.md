@@ -1,12 +1,8 @@
-# ENCOM S.A - Figura Geométrica Círculo (Java)
+# ENCOM S.A - Figura Geométrica Círculo (Rama Funcionalidades - Java)
 
-## Estado Actual
+## Nueva Funcionalidad en Desarrollo: Cálculo del Perímetro
 
-En esta rama, se está trabajando y mejorando el método para calcular el área de un círculo. Además, se están desarrollando pruebas unitarias para garantizar que el cálculo del área sea preciso y confiable.
-
-### Funcionalidades en desarrollo:
-- Método `areaCirculo()` para el cálculo del área de un círculo.
-- Pruebas unitarias utilizando **JUnit** para validar el correcto funcionamiento del método.
+En esta rama, se está trabajando en la implementación de una nueva funcionalidad para calcular el perímetro de un círculo. Sin embargo, **según lo acordado, esta funcionalidad aún no ha sido completada en su totalidad**. Se enfocó en el desarrollo del método `calcularPerimetro()` y en crear pruebas unitarias para garantizar su correcto funcionamiento.
 
 ---
 
